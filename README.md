@@ -13,8 +13,8 @@
 
 ## Links 
 
-      Github Link -> 
-      Project Link -> 
+      Github Link -> https://github.com/kavyanimmaturi/Party-Menu-App.git
+      Project Link -> https://party-menu-app-dusky.vercel.app/
 
 ## Functionalities 
 
